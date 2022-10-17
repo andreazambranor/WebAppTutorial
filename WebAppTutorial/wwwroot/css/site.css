@@ -21,3 +21,12 @@ body {
 .green-text {
     color: darkolivegreen;
 }
+
+/*assigment*/
+
+.floatright {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+

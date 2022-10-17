@@ -9,3 +9,8 @@ function newColor() {
 function oldColor() {
     document.getElementById("hello_world").style.color = "darkolivegreen";
 }
+
+//assigment
+function infobutton() {
+    document.getElementById("info").innerHTML = "This is Steven MacRae, a dancer from the Royal Opera House in London.";
+}
